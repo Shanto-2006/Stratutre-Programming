@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main()
+{ char a;
+
+printf("input = \n");
+scanf("%c",&a);
+    printf("Green University of Bangladesh = %c",a);
+
+    return 0;
+}
